@@ -225,6 +225,7 @@ def most_points_scored
   player
 end
 
+<<<<<<< HEAD
 def winning_team
   points_home = 0
   points_away = 0
@@ -273,5 +274,10 @@ def long_name_steals_a_ton
   end
 end
 
+=======
+
+    
+    
+>>>>>>> 87ce77f68554d5a434bf59595ae55dadf832e67b
     
     
